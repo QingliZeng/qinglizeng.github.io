@@ -28,8 +28,8 @@ My current projects include the development of robust intrusion detection system
 
 # 📝 Publications 
 
-<!-- 1 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Globecom 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<!-- 4 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Globecom 2023</div><img src='images/globecom2023workshop.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A HITL-Integrated Machine Learning Approach to Secure Drone Networks for IIoT Applications](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10465098)
@@ -41,38 +41,12 @@ My current projects include the development of robust intrusion detection system
 </div>
 </div>
 
-<!-- 2 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Globecom 2023</div><img src='images/globecom2023workshop.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[Realtime Intrusion Detection In Unmanned Aerial Vehicles Using Active Learning and Generative Adversarial Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10476232)
-
-**Qingli Zeng**, Kailynn Barnt, Luke Ragan, Farid Nait-Abdesselam
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=09YAwSwAAAAJ&citation_for_view=09YAwSwAAAAJ:UebtZRa9Y70C) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Realtime Intrusion Detection In Unmanned Aerial Vehicles Using Active Learning and Generative Adversarial Networks. 
-</div>
-</div>
-
-<!-- 3 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Globecom 2023</div><img src='images/globecom2023workshop.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Scalable and Probabilistic Point-Cloud Generation for UAS-Based Structural Assessment](https://link.springer.com/chapter/10.1007/978-3-030-93236-7_49)
-
-**Qingli Zeng**, ZhiQiang Chen
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=09YAwSwAAAAJ&citation_for_view=09YAwSwAAAAJ:u-x6o8ySG0sC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- A hitl-integrated machine learning approach to secure drone networks for iiot applications. 
-</div>
-</div>
-
-<!-- 2 -->
+<!-- 5 -->
 - [Realtime Intrusion Detection In Unmanned Aerial Vehicles Using Active Learning and Generative Adversarial Networks](https://ieeexplore.ieee.org/abstract/document/10476232), **Qingli Zeng**, Kailynn Barnt, Luke Ragan, Farid Nait-Abdesselam, 2023 IEEE 29th International Conference on Parallel and Distributed Systems (ICPADS)
 
-<!-- 3 -->
+<!-- 6 -->
 - [An Enhanced Online K-Means Algorithm for Flooding Attacks Detection in Vehicular Networks](https://ieeexplore.ieee.org/abstract/document/10592383), Harir Razzazi, **Qingli Zeng**, Farid Nait-Abdesselam, 2024 International Wireless Communications and Mobile Computing (IWCMC)
-- 
 
 <!-- 7 -->
 - [Scalable and Probabilistic Point-Cloud Generation for UAS-Based Structural Assessment](https://link.springer.com/chapter/10.1007/978-3-030-93236-7_49), **Qingli Zeng**, ZhiQiang Chen, EVACES 2021 
