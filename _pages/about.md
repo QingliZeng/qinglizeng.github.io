@@ -69,12 +69,8 @@ My current projects include the development of robust intrusion detection system
 
 
 <!-- 4 -->
-<ul>
-  <li>
-    <span class="badge">Globecom 2023</span>
-    <a href="https://link.springer.com/chapter/10.1007/978-3-030-93236-7_49">Scalable and Probabilistic Point-Cloud Generation for UAS-Based Structural Assessment</a>
-  </li>
-</ul>
+- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+
 
 
 
