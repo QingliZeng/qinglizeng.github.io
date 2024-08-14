@@ -69,11 +69,10 @@ My current projects include the development of robust intrusion detection system
 
 
 <!-- 4 -->
-<div class="badge">Globecom 2023</div><img ></div></div>
+<div class="badge">Globecom 2023</div>
 <div class='paper-box-text' markdown="1">
 
 [Scalable and Probabilistic Point-Cloud Generation for UAS-Based Structural Assessment](https://link.springer.com/chapter/10.1007/978-3-030-93236-7_49)
-</div>
 </div>
 
 
