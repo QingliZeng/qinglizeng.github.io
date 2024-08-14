@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lorem ipsum"
+title                    : "Qingli Zeng"
 description              : "PhD. Candidate in University of Missouri Kansas City "
 repository               : "QingliZeng/qinglizeng.github.io"
 google_scholar_stats_use_cdn : true
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : "qingli-zeng-672a81193"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : "https://orcid.org/my-orcid?orcid=0009-0006-6735-9642"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
