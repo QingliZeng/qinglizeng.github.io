@@ -36,7 +36,7 @@ Cooperative and Autonomous Flocking of Drones Using an Extended BOID Model
 </div>
 
 <!-- 2 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICC 2024</div><img src='images/globecom2023workshop.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICC 2024</div><img src='images/icc20241.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Multi-Agent Reinforcement Learning-Based Extended Boid Modeling for Drone Swarms
@@ -46,7 +46,7 @@ Multi-Agent Reinforcement Learning-Based Extended Boid Modeling for Drone Swarms
 </div>
 
 <!-- 3 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICC 2024</div><img src='images/globecom2023workshop.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICC 2024</div><img src='images/icc20242.pdf' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Leveraging Human-In-The-Loop Machine Learning and GAN-Synthesized Data for Intrusion Detection in Unmanned Aerial Vehicle Networks
