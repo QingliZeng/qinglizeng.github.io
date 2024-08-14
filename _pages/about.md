@@ -26,17 +26,17 @@ My current projects include the development of robust intrusion detection system
 # 📝 Publications 
 
 <!-- 1 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GC Wkshps 2023</div><img src='images/globecom2023workshop.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ICC 2024</div><img src='images/globecom2023workshop.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[A HITL-Integrated Machine Learning Approach to Secure Drone Networks for IIoT Applications](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10465098). 
+Multi-Agent Reinforcement Learning-Based Extended Boid Modeling for Drone Swarms. 
 
-IEEE Globecom Workshops (GC Wkshps) 2023.
+IEEE International Conference on Communication (ICC) 2024.
 
-**Qingli Zeng**, Farid Nait-Abdesselam, ZhiQiang Chen
+ **Qingli Zeng**, Farid Nait-Abdesselam
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=09YAwSwAAAAJ&citation_for_view=09YAwSwAAAAJ:Se3iqnhoufwC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- A hitl-integrated machine learning approach to secure drone networks for iiot applications. 
+[**Project**](link will come soon) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Multi-Agent Reinforcement Learning-Based Extended Boid Modeling for Drone Swarms. 
 </div>
 </div>
 
@@ -46,13 +46,11 @@ IEEE Globecom Workshops (GC Wkshps) 2023.
 
   
 <!-- 3 -->
-- Multi-Agent Reinforcement Learning-Based Extended Boid Modeling for Drone Swarms, **Qingli Zeng**, Farid Nait-Abdesselam, IEEE International Conference on Communication (ICC) 2024.
-
-  
-<!-- 4 -->
 - Cooperative and Autonomous Flocking of Drones Using an Extended BOID Model,**Qingli Zeng**, Harir Razzazi, Farid Nait-Abdesselam, IEEE Global Communications Conference (GLOBECOM) 2024.
 
-  
+<!-- 4 -->
+- [A HITL-Integrated Machine Learning Approach to Secure Drone Networks for IIoT Applications](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10465098), **Qingli Zeng**, Farid Nait-Abdesselam, ZhiQiang Chen, IEEE Globecom Workshops (GC Wkshps) 2023.
+
 <!-- 5 -->
 - [Realtime Intrusion Detection In Unmanned Aerial Vehicles Using Active Learning and Generative Adversarial Networks](https://ieeexplore.ieee.org/abstract/document/10476232), **Qingli Zeng**, Kailynn Barnt, Luke Ragan, Farid Nait-Abdesselam, 2023 IEEE 29th International Conference on Parallel and Distributed Systems (ICPADS).
 
