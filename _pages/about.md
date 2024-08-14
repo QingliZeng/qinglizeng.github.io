@@ -19,7 +19,7 @@ redirect_from:
 
 Welcome to my academic profile! I am Qingli Zeng, a PhD candidate in Computer Science at the University of Missouri - Kansas City (UMKC). My research is primarily focused on Unmanned Aerial Vehicle (UAV) networks, with a particular interest in enhancing the security, efficiency, and autonomy of these systems through advanced machine learning techniques and bio-inspired algorithms. I am passionate about exploring the intersection of UAV technology, cybersecurity, and artificial intelligence, aiming to develop innovative solutions that address real-world challenges in these fields.
 
-My current projects include the development of robust intrusion detection systems for UAV networks, the creation of dynamic routing protocols inspired by biological systems, and the use of reinforcement learning to improve the coordination of drone swarms. I am dedicated to advancing knowledge in my field and am always excited to collaborate with fellow researchers and industry professionals to push the boundaries of what is possible in UAV and cybersecurity technologies<a href='https://scholar.google.com/citations?user=09YAwSwAAAAJ&hl=zh-CN'>google scholar page.
+My current projects include the development of robust intrusion detection systems for UAV networks, the creation of dynamic routing protocols inspired by biological systems, and the use of reinforcement learning to improve the coordination of drone swarms. I am dedicated to advancing knowledge in my field and am always excited to collaborate with fellow researchers and industry professionals to push the boundaries of what is possible in UAV and cybersecurity technologies. you can find my papers at <a href='https://scholar.google.com/citations?user=09YAwSwAAAAJ&hl=zh-CN'>google scholar.
 
 
 # 🔥 News
@@ -28,19 +28,18 @@ My current projects include the development of robust intrusion detection system
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Globecom 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[A HITL-Integrated Machine Learning Approach to Secure Drone Networks for IIoT Applications](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10465098)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Qingli Zeng**, Farid Nait-Abdesselam, ZhiQiang Chen
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=09YAwSwAAAAJ&citation_for_view=09YAwSwAAAAJ:Se3iqnhoufwC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
