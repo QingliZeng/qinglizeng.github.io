@@ -26,12 +26,12 @@ My current projects include the development of robust intrusion detection system
 # 📝 Publications 
 
 <!-- 1 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Globecom 2024</div><img src='images/globecom2023workshop.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Globecom 2024</div><img src='images/globecom2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Cooperative and Autonomous Flocking of Drones Using an Extended BOID Model
 
-**Qingli Zeng**, Farid Nait-Abdesselam
+**Qingli Zeng**, Harir Razzazi, Farid Nait-Abdesselam
 </div>
 </div>
 
