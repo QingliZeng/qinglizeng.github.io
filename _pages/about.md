@@ -41,6 +41,32 @@ My current projects include the development of robust intrusion detection system
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Globecom 2023</div><img src='globecom2023workshop.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Realtime Intrusion Detection In Unmanned Aerial Vehicles Using Active Learning and Generative Adversarial Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10476232)
+
+**Qingli Zeng**, Kailynn Barnt, Luke Ragan, Farid Nait-Abdesselam
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=09YAwSwAAAAJ&citation_for_view=09YAwSwAAAAJ:UebtZRa9Y70C) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Realtime Intrusion Detection In Unmanned Aerial Vehicles Using Active Learning and Generative Adversarial Networks. 
+</div>
+</div>
+
+<!-- 3 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Globecom 2023</div><img src='globecom2023workshop.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Scalable and Probabilistic Point-Cloud Generation for UAS-Based Structural Assessment](https://link.springer.com/chapter/10.1007/978-3-030-93236-7_49)
+
+**Qingli Zeng**, ZhiQiang Chen
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=09YAwSwAAAAJ&citation_for_view=09YAwSwAAAAJ:u-x6o8ySG0sC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- A hitl-integrated machine learning approach to secure drone networks for iiot applications. 
+</div>
+</div>
+
+
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
