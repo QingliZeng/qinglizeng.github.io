@@ -26,37 +26,6 @@ My current projects include the development of robust intrusion detection system
 # 📝 Publications 
 
 <!-- 1 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Globecom 2024</div><img src='images/globecom2024.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-Cooperative and Autonomous Flocking of Drones Using an Extended BOID Model
-
-**Qingli Zeng**, Harir Razzazi, Farid Nait-Abdesselam
-</div>
-</div>
-
-<!-- 2 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICC 2024</div><img src='images/icc20241.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-Multi-Agent Reinforcement Learning-Based Extended Boid Modeling for Drone Swarms
-
-**Qingli Zeng**, Farid Nait-Abdesselam
-</div>
-</div>
-
-<!-- 3 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICC 2024</div><img src='images/icc20242.pdf' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-Leveraging Human-In-The-Loop Machine Learning and GAN-Synthesized Data for Intrusion Detection in Unmanned Aerial Vehicle Networks
-
-**Qingli Zeng**, Farid Nait-Abdesselam
-</div>
-</div>
-
-
-<!-- 4 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Globecom 2023</div><img src='images/globecom2023workshop.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -70,6 +39,18 @@ Leveraging Human-In-The-Loop Machine Learning and GAN-Synthesized Data for Intru
 </div>
 
 
+<!-- 2 -->
+- Leveraging Human-In-The-Loop Machine Learning and GAN-Synthesized Data for Intrusion Detection in Unmanned Aerial Vehicle Networks, **Qingli Zeng**, Farid Nait-Abdesselam, IEEE International Conference on Communication (ICC) 2024.
+
+  
+<!-- 3 -->
+- Multi-Agent Reinforcement Learning-Based Extended Boid Modeling for Drone Swarms, **Qingli Zeng**, Farid Nait-Abdesselam, IEEE International Conference on Communication (ICC) 2024.
+
+  
+<!-- 4 -->
+- Cooperative and Autonomous Flocking of Drones Using an Extended BOID Model,**Qingli Zeng**, Harir Razzazi, Farid Nait-Abdesselam, IEEE Global Communications Conference (GLOBECOM) 2024.
+
+  
 <!-- 5 -->
 - [Realtime Intrusion Detection In Unmanned Aerial Vehicles Using Active Learning and Generative Adversarial Networks](https://ieeexplore.ieee.org/abstract/document/10476232), **Qingli Zeng**, Kailynn Barnt, Luke Ragan, Farid Nait-Abdesselam, 2023 IEEE 29th International Conference on Parallel and Distributed Systems (ICPADS)
 
