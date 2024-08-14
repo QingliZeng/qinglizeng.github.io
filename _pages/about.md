@@ -68,6 +68,7 @@ My current projects include the development of robust intrusion detection system
 - *Spring 2024*, [53rd class of Women’s Council GAF Awards(Merit)](https://www.umkcwc.org/s/1236/bp20/interior.aspx?sid=1236&gid=3&pgid=823). 
 - *Academic year 2024-2025*, [UMKC Research Grants](https://sgs.umkc.edu/affordability-and-funding/grants.html).
 - *Fall 2023*,UMKC SGS Travel grsnt and Balaji travel grant.
+- *2018*, [Robocup first prize](https://www.robocup.org).
 
 
 # 📖 Educations
