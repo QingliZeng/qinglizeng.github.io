@@ -46,7 +46,7 @@ My current projects include the development of robust intrusion detection system
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2020.09 - Present*, PhD, Computer Science, [University of Missouri Kansas City](https://www.umkc.edu), Kansas City, MO, USA. 
+- *2020.09 - 2025.05 (Expected)*, PhD, Computer Science, [University of Missouri Kansas City](https://www.umkc.edu), Kansas City, MO, USA. 
 - *2020.01 - 2021.10*, Master, Computer Science, [University of Missouri Kansas City](https://www.umkc.edu), Kansas City, MO, USA.
 - *2016.09 - 2020.09*, Undergraduate, Automation, [Beijing Information Science and Technology University](https://english.bistu.edu.cn), Beijing, China.
 
