@@ -35,7 +35,7 @@ IEEE International Conference on Communication (ICC) 2024.
 
  **Qingli Zeng**, Farid Nait-Abdesselam
 
-[**Project**](link will come soon) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+**Project**(link will come soon) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Multi-Agent Reinforcement Learning-Based Extended Boid Modeling for Drone Swarms. 
 </div>
 </div>
