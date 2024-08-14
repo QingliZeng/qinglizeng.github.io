@@ -69,15 +69,10 @@ My current projects include the development of robust intrusion detection system
 
 
 <!-- 4 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Globecom 2023</div><img src='globecom2023workshop.jpg' alt="sym" width="100%"></div></div>
+<div class="badge">Globecom 2023</div><img>
 <div class='paper-box-text' markdown="1">
 
-[Human-in-the-loop robotic inspection-framework and Point Cloud assessment](https://www.jstage.jst.go.jp/article/jsceiii/3/2/3_35/_article/-char/ja/)
-
-ZhiQiang Chen，**Qingli Zeng** 
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=09YAwSwAAAAJ&citation_for_view=09YAwSwAAAAJ:d1gkVwhDpl0C) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Human-in-the-loop robotic inspection - framework and Point Cloud assessment. 
+[Human-in-the-loop robotic inspection-framework and Point Cloud assessment](https://www.jstage.jst.go.jp/article/jsceiii/3/2/3_35/_article/-char/ja/)，ZhiQiang Chen，**Qingli Zeng** 
 </div>
 </div>
 
