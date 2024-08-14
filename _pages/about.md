@@ -26,10 +26,12 @@ My current projects include the development of robust intrusion detection system
 # 📝 Publications 
 
 <!-- 1 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Globecom 2023</div><img src='images/globecom2023workshop.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Globecom workshop 2023</div><img src='images/globecom2023workshop.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[A HITL-Integrated Machine Learning Approach to Secure Drone Networks for IIoT Applications](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10465098)
+[A HITL-Integrated Machine Learning Approach to Secure Drone Networks for IIoT Applications](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10465098). 
+
+IEEE Global Communications Conference workshop (GLOBECOM) 2023.
 
 **Qingli Zeng**, Farid Nait-Abdesselam, ZhiQiang Chen
 
@@ -67,7 +69,7 @@ My current projects include the development of robust intrusion detection system
 # 🎖 Honors and Awards
 - *Spring 2024*, [53rd class of Women’s Council GAF Awards(Merit)](https://www.umkcwc.org/s/1236/bp20/interior.aspx?sid=1236&gid=3&pgid=823). 
 - *Academic year 2024-2025*, [UMKC Research Grants](https://sgs.umkc.edu/affordability-and-funding/grants.html).
-- *Fall 2023*,UMKC SGS Travel grsnt and Balaji travel grant.
+- *Fall 2023*,UMKC SGS Travel grant and Balaji travel grant.
 - *2018*, [Robocup first prize](https://www.robocup.org).
 
 
