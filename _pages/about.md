@@ -79,9 +79,11 @@ My current projects include the development of robust intrusion detection system
 
 
 # 💻 WORK EXPERIENCE
-- *Graduate Research Assistant*, Jan 2021 - August 2022, Jun 2023 - Sep 2023, Jun 2024 - Sep 2024
+- *Graduate Research Assistant*, Jan 2021 - August 2022, Jun 2023 - Sep 2023, Jun 2024 - Sep 2024.
+  
   AR flooding project for KC Water Company, Research for UAVs networks, Guide undergraduate students,
-CyberSecurity summer camp
+CyberSecurity summer camp.
 
-- *Graduate Teaching Assistant*, Sep 2022 - Present
-  Network Architecture (Sep 2022 - May 2024); Python Programming (Jan 2024 - Present)
+- *Graduate Teaching Assistant*, Sep 2022 - Present.
+  
+  Network Architecture (Sep 2022 - May 2024); Python Programming (Jan 2024 - Present).
