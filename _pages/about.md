@@ -54,16 +54,16 @@ IEEE Globecom Workshops (GC Wkshps) 2023.
 
   
 <!-- 5 -->
-- [Realtime Intrusion Detection In Unmanned Aerial Vehicles Using Active Learning and Generative Adversarial Networks](https://ieeexplore.ieee.org/abstract/document/10476232), **Qingli Zeng**, Kailynn Barnt, Luke Ragan, Farid Nait-Abdesselam, 2023 IEEE 29th International Conference on Parallel and Distributed Systems (ICPADS)
+- [Realtime Intrusion Detection In Unmanned Aerial Vehicles Using Active Learning and Generative Adversarial Networks](https://ieeexplore.ieee.org/abstract/document/10476232), **Qingli Zeng**, Kailynn Barnt, Luke Ragan, Farid Nait-Abdesselam, 2023 IEEE 29th International Conference on Parallel and Distributed Systems (ICPADS).
 
 <!-- 6 -->
-- [An Enhanced Online K-Means Algorithm for Flooding Attacks Detection in Vehicular Networks](https://ieeexplore.ieee.org/abstract/document/10592383), Harir Razzazi, **Qingli Zeng**, Farid Nait-Abdesselam, 2024 International Wireless Communications and Mobile Computing (IWCMC)
+- [An Enhanced Online K-Means Algorithm for Flooding Attacks Detection in Vehicular Networks](https://ieeexplore.ieee.org/abstract/document/10592383), Harir Razzazi, **Qingli Zeng**, Farid Nait-Abdesselam, 2024 International Wireless Communications and Mobile Computing (IWCMC).
 
 <!-- 7 -->
-- [Scalable and Probabilistic Point-Cloud Generation for UAS-Based Structural Assessment](https://link.springer.com/chapter/10.1007/978-3-030-93236-7_49), **Qingli Zeng**, ZhiQiang Chen, EVACES 2021 
+- [Scalable and Probabilistic Point-Cloud Generation for UAS-Based Structural Assessment](https://link.springer.com/chapter/10.1007/978-3-030-93236-7_49), **Qingli Zeng**, ZhiQiang Chen, EVACES 2021.
 
 <!-- 8 -->
-- [Human-in-the-loop robotic inspection-framework and Point Cloud assessment](https://www.jstage.jst.go.jp/article/jsceiii/3/2/3_35/_article/-char/ja/), ZhiQiang Chen, **Qingli Zeng**, AI・データサイエンス論文集 
+- [Human-in-the-loop robotic inspection-framework and Point Cloud assessment](https://www.jstage.jst.go.jp/article/jsceiii/3/2/3_35/_article/-char/ja/), ZhiQiang Chen, **Qingli Zeng**, AI・データサイエンス論文集.
 
 
 # 🎖 Honors and Awards
