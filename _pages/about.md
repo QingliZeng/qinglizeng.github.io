@@ -19,7 +19,7 @@ redirect_from:
 
 Welcome to my academic profile! I am Qingli Zeng, a PhD candidate in Computer Science at the University of Missouri - Kansas City (UMKC). My research is primarily focused on Unmanned Aerial Vehicle (UAV) networks, with a particular interest in enhancing the security, efficiency, and autonomy of these systems through advanced machine learning techniques and bio-inspired algorithms. I am passionate about exploring the intersection of UAV technology, cybersecurity, and artificial intelligence, aiming to develop innovative solutions that address real-world challenges in these fields.
 
-My current projects include the development of robust intrusion detection systems for UAV networks, the creation of dynamic routing protocols inspired by biological systems, and the use of reinforcement learning to improve the coordination of drone swarms. I am dedicated to advancing knowledge in my field and am always excited to collaborate with fellow researchers and industry professionals to push the boundaries of what is possible in UAV and cybersecurity technologies<a href='https://scholar.google.com/citations?user=09YAwSwAAAAJ&hl=zh-CN'>.
+My current projects include the development of robust intrusion detection systems for UAV networks, the creation of dynamic routing protocols inspired by biological systems, and the use of reinforcement learning to improve the coordination of drone swarms. I am dedicated to advancing knowledge in my field and am always excited to collaborate with fellow researchers and industry professionals to push the boundaries of what is possible in UAV and cybersecurity technologies<a href='https://scholar.google.com/citations?user=09YAwSwAAAAJ&hl=zh-CN'>google scholar page.
 
 
 # 🔥 News
