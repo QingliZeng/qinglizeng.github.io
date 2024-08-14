@@ -22,12 +22,38 @@ Welcome to my academic profile! I am Qingli Zeng, a PhD candidate in Computer Sc
 My current projects include the development of robust intrusion detection systems for UAV networks, the creation of dynamic routing protocols inspired by biological systems, and the use of reinforcement learning to improve the coordination of drone swarms. I am dedicated to advancing knowledge in my field and am always excited to collaborate with fellow researchers and industry professionals to push the boundaries of what is possible in UAV and cybersecurity technologies. You can find my papers at <a href='https://scholar.google.com/citations?user=09YAwSwAAAAJ&hl=zh-CN'>google scholar.
 
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
 
+<!-- 1 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Globecom 2024</div><img src='images/globecom2023workshop.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Cooperative and Autonomous Flocking of Drones Using an Extended BOID Model
+
+**Qingli Zeng**, Farid Nait-Abdesselam
+</div>
+</div>
+
+<!-- 2 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICC 2024</div><img src='images/globecom2023workshop.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Multi-Agent Reinforcement Learning-Based Extended Boid Modeling for Drone Swarms
+
+**Qingli Zeng**, Farid Nait-Abdesselam
+</div>
+</div>
+
+<!-- 3 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICC 2024</div><img src='images/globecom2023workshop.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Leveraging Human-In-The-Loop Machine Learning and GAN-Synthesized Data for Intrusion Detection in Unmanned Aerial Vehicle Networks
+
+**Qingli Zeng**, Farid Nait-Abdesselam
+</div>
+</div>
 
 
 <!-- 4 -->
@@ -57,20 +83,23 @@ My current projects include the development of robust intrusion detection system
 - [Human-in-the-loop robotic inspection-framework and Point Cloud assessment](https://www.jstage.jst.go.jp/article/jsceiii/3/2/3_35/_article/-char/ja/), ZhiQiang Chen, **Qingli Zeng**, AI・データサイエンス論文集 
 
 
-
-
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *Spring 2024*, [53rd class of Women’s Council GAF Awards(Merit)](https://www.umkcwc.org/s/1236/bp20/interior.aspx?sid=1236&gid=3&pgid=823). 
+- *Academic year 2024-2025*, [UMKC Research Grants](https://sgs.umkc.edu/affordability-and-funding/grants.html).
+- *Fall 2023*,UMKC SGS Travel grsnt and Balaji travel grant.
+
 
 # 📖 Educations
 - *2020.09 - 2025.05 (Expected)*, PhD, Computer Science, [University of Missouri Kansas City](https://www.umkc.edu), Kansas City, MO, USA. 
 - *2020.01 - 2021.10*, Master, Computer Science, [University of Missouri Kansas City](https://www.umkc.edu), Kansas City, MO, USA.
 - *2016.09 - 2020.09*, Undergraduate, Automation, [Beijing Information Science and Technology University](https://english.bistu.edu.cn), Beijing, China.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
+# 💻 WORK EXPERIENCE
+- *Graduate Research Assistant*, Jan 2021 - August 2022, Jun 2023 - Sep 2023, Jun 2024 - Sep 2024
+  AR flooding project for KC Water Company, Research for UAVs networks, Guide undergraduate students,
+CyberSecurity summer camp
+
+- *Graduate Teaching Assistant*, Sep 2022 - Present
+  Network Architecture (Sep 2022 - May 2024); Python Programming (Jan 2024 - Present)
