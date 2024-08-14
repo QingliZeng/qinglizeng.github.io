@@ -26,12 +26,12 @@ My current projects include the development of robust intrusion detection system
 # 📝 Publications 
 
 <!-- 1 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Globecom workshop 2023</div><img src='images/globecom2023workshop.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GC Wkshps 2023</div><img src='images/globecom2023workshop.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A HITL-Integrated Machine Learning Approach to Secure Drone Networks for IIoT Applications](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10465098). 
 
-IEEE Global Communications Conference workshop (GLOBECOM) 2023.
+IEEE Globecom Workshops (GC Wkshps) 2023.
 
 **Qingli Zeng**, Farid Nait-Abdesselam, ZhiQiang Chen
 
