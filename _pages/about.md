@@ -29,20 +29,20 @@ My current projects include the development of robust intrusion detection system
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ICC 2024</div><img src='images/globecom2023workshop.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Multi-Agent Reinforcement Learning-Based Extended Boid Modeling for Drone Swarms. 
+[Multi-Agent Reinforcement Learning-Based Extended Boid Modeling for Drone Swarms](https://ieeexplore.ieee.org/document/10622479). 
 
 IEEE International Conference on Communication (ICC) 2024.
 
  **Qingli Zeng**, Farid Nait-Abdesselam
 
-**Project**(link will come soon) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+**Project**(https://ieeexplore.ieee.org/document/10622479) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Multi-Agent Reinforcement Learning-Based Extended Boid Modeling for Drone Swarms. 
 </div>
 </div>
 
 
 <!-- 2 -->
-- Leveraging Human-In-The-Loop Machine Learning and GAN-Synthesized Data for Intrusion Detection in Unmanned Aerial Vehicle Networks, **Qingli Zeng**, Farid Nait-Abdesselam, IEEE International Conference on Communication (ICC) 2024.
+- [Leveraging Human-In-The-Loop Machine Learning and GAN-Synthesized Data for Intrusion Detection in Unmanned Aerial Vehicle Networks](https://ieeexplore.ieee.org/document/10622433), **Qingli Zeng**, Farid Nait-Abdesselam, IEEE International Conference on Communication (ICC) 2024.
 
   
 <!-- 3 -->
