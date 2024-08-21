@@ -35,7 +35,7 @@ IEEE International Conference on Communication (ICC) 2024.
 
  **Qingli Zeng**, Farid Nait-Abdesselam
 
-**Project**(https://ieeexplore.ieee.org/document/10622479) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://ieeexplore.ieee.org/document/10622479) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Multi-Agent Reinforcement Learning-Based Extended Boid Modeling for Drone Swarms. 
 </div>
 </div>
@@ -51,7 +51,7 @@ IEEE International Conference on Communication (ICC) 2024.
 
 **Qingli Zeng**, Farid Nait-Abdesselam
 
-**Project**(https://ieeexplore.ieee.org/document/10622433) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://ieeexplore.ieee.org/document/10622433) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Leveraging Human-In-The-Loop Machine Learning and GAN-Synthesized Data for Intrusion Detection in Unmanned Aerial Vehicle Networks. 
 </div>
 </div>
