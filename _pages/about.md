@@ -42,7 +42,20 @@ IEEE International Conference on Communication (ICC) 2024.
 
 
 <!-- 2 -->
-- [Leveraging Human-In-The-Loop Machine Learning and GAN-Synthesized Data for Intrusion Detection in Unmanned Aerial Vehicle Networks](https://ieeexplore.ieee.org/document/10622433), **Qingli Zeng**, Farid Nait-Abdesselam, IEEE International Conference on Communication (ICC) 2024.
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ICC 2024</div><img src='images/icc20242.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[Leveraging Human-In-The-Loop Machine Learning and GAN-Synthesized Data for Intrusion Detection in Unmanned Aerial Vehicle Networks](https://ieeexplore.ieee.org/document/10622433)
+
+IEEE International Conference on Communication (ICC) 2024.
+
+**Qingli Zeng**, Farid Nait-Abdesselam
+
+**Project**(https://ieeexplore.ieee.org/document/10622433) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Leveraging Human-In-The-Loop Machine Learning and GAN-Synthesized Data for Intrusion Detection in Unmanned Aerial Vehicle Networks. 
+</div>
+</div>
+
 
   
 <!-- 3 -->
