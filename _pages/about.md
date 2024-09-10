@@ -69,11 +69,14 @@ IEEE International Conference on Communication (ICC) 2024.
 - [An Enhanced Online K-Means Algorithm for Flooding Attacks Detection in Vehicular Networks](https://ieeexplore.ieee.org/abstract/document/10592383), Harir Razzazi, **Qingli Zeng**, Farid Nait-Abdesselam, 2024 International Wireless Communications and Mobile Computing (IWCMC).
 
 <!-- 7 -->
-- [Scalable and Probabilistic Point-Cloud Generation for UAS-Based Structural Assessment](https://link.springer.com/chapter/10.1007/978-3-030-93236-7_49), **Qingli Zeng**, ZhiQiang Chen, EVACES 2021.
+- FGA-IDS: A Federated Learning and GAN-Augmented Intrusion Detection System for UAV Networks, **Qingli Zeng**, Semire Olatunde-Salawu, and Farid Nait-Abdesselam, The 10th IEEE International Conference on Collaboration and Internet Computing (CIC) 2024.
 
 <!-- 8 -->
-- [Human-in-the-loop robotic inspection-framework and Point Cloud assessment](https://www.jstage.jst.go.jp/article/jsceiii/3/2/3_35/_article/-char/ja/), ZhiQiang Chen, **Qingli Zeng**, AI・データサイエンス論文集.
+- [Scalable and Probabilistic Point-Cloud Generation for UAS-Based Structural Assessment](https://link.springer.com/chapter/10.1007/978-3-030-93236-7_49), **Qingli Zeng**, ZhiQiang Chen, EVACES 2021.
 
+<!-- 9 -->
+- [Human-in-the-loop robotic inspection-framework and Point Cloud assessment](https://www.jstage.jst.go.jp/article/jsceiii/3/2/3_35/_article/-char/ja/), ZhiQiang Chen, **Qingli Zeng**, AI・データサイエンス論文集.
+- 
 
 # 🎖 Honors and Awards
 - *Spring 2024*, [53rd class of Women’s Council GAF Awards(Merit)](https://www.umkcwc.org/s/1236/bp20/interior.aspx?sid=1236&gid=3&pgid=823). 
