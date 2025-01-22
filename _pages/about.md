@@ -69,7 +69,7 @@ IEEE International Conference on Communication (ICC) 2024.
 - [An Enhanced Online K-Means Algorithm for Flooding Attacks Detection in Vehicular Networks](https://ieeexplore.ieee.org/abstract/document/10592383), Harir Razzazi, **Qingli Zeng**, Farid Nait-Abdesselam, 2024 International Wireless Communications and Mobile Computing (IWCMC).
 
 <!-- 7 -->
-- FGA-IDS: A Federated Learning and GAN-Augmented Intrusion Detection System for UAV Networks, **Qingli Zeng**, Semire Olatunde-Salawu, and Farid Nait-Abdesselam, The 10th IEEE International Conference on Collaboration and Internet Computing (CIC) 2024.
+- [FGA-IDS: A Federated Learning and GAN-Augmented Intrusion Detection System for UAV Networks](https://ieeexplore.ieee.org/abstract/document/10835787), **Qingli Zeng**, Semire Olatunde-Salawu, and Farid Nait-Abdesselam, The 10th IEEE International Conference on Collaboration and Internet Computing (CIC) 2024.
 
 <!-- 8 -->
 - [Scalable and Probabilistic Point-Cloud Generation for UAS-Based Structural Assessment](https://link.springer.com/chapter/10.1007/978-3-030-93236-7_49), **Qingli Zeng**, ZhiQiang Chen, EVACES 2021.
