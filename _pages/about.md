@@ -79,10 +79,12 @@ IEEE International Conference on Communication (ICC) 2024.
 
 
 # 🎖 Honors and Awards
-- *Spring 2024*, [53rd class of Women’s Council GAF Awards(Merit)](https://www.umkcwc.org/s/1236/bp20/interior.aspx?sid=1236&gid=3&pgid=823). 
+- *Spring 2024*, [53rd class of Women’s Council GAF Awards(Merit)](https://www.umkcwc.org/s/1236/bp20/interior.aspx?sid=1236&gid=3&pgid=823).
+- *Spring 2025*, 54th class of Woman's Council GAF Awards(Merit).
 - *Academic year 2024-2025*, [UMKC Research Grants](https://sgs.umkc.edu/affordability-and-funding/grants.html).
 - *Fall 2023*,UMKC SGS Travel grant and Balaji travel grant.
 - *2018*, [Robocup first prize](https://www.robocup.org).
+- *2024*, Usenix OSDI student travel grant.
 
 
 # 📖 Educations
