@@ -85,6 +85,7 @@ IEEE International Conference on Communication (ICC) 2024.
 - *Fall 2023*,UMKC SGS Travel grant and Balaji travel grant.
 - *2018*, [Robocup first prize](https://www.robocup.org).
 - *2024*, Usenix OSDI student travel grant.
+- *2024*, [UMKC Hack a Roo Competition](https://info.umkc.edu/hack-a-roo/fall-2024-data-science-ai-track-2/).
 
 
 # 📖 Educations
