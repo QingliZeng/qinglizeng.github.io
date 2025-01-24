@@ -120,15 +120,15 @@ IEEE International Conference on Communication (ICC) 2024.
   
   Abdalrahman works with me on the Bio-Inspired Routing Solution for UAV Swarms. This work was submitted to INFOCOM 2025. With submissions based on this work, Abdalrahman won UMKC Hack a Roo competition 2024. Abdalrahman is looking into producing the intrusion detection dataset for UAV swarm networks.
 
-- - *For undergraduate student Semire Olatunde-Salawu*. （Jun 2024 - Sep 2024）
+- *For undergraduate student Semire Olatunde-Salawu*. （Jun 2024 - Sep 2024）
   
-Semire worked with me on Federated Learning based IDS for UAV swarm networks. This work was accepted by IEEE CIC 2024.
+  Semire worked with me on Federated Learning based IDS for UAV swarm networks. This work was accepted by IEEE CIC 2024.
 - *For undergraduate student Gregory Linville*. （Jun 2024 - Sep 2024）
   
-Gregory worked with me on Efficient Data Compression for Large-Scale Storage Systems.
+  Gregory worked with me on Efficient Data Compression for Large-Scale Storage Systems.
 - *For undergraduate student Samuel Yohannes*. （January 2025 - May 2025）
   
-Samuel will work with me from January 2025, he is going to explore the LSTM and Neural Networks based IDS for UAV swarms networks.
+  Samuel will work with me from January 2025, he is going to explore the LSTM and Neural Networks based IDS for UAV swarms networks.
 
 
 # 🏢 Professional Service
