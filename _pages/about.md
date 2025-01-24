@@ -108,6 +108,6 @@ IEEE International Conference on Communication (ICC) 2024.
 
 - *Graduate Teaching Assistant*, Sep 2022 - Present.
   
-  1.Network Architecture (Sep 2022 - May 2024).
+  1. Network Architecture (Sep 2022 - May 2024).
   
   2. Python Programming (Jan 2024 - Present).
