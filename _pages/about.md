@@ -99,7 +99,7 @@ IEEE International Conference on Communication (ICC) 2024.
 - *Graduate Research Assistant*, Jan 2021 - August 2022, Jun 2023 - Sep 2023, Jun 2024 - Sep 2024.
    Developed AR Flooding Project for KC Water Company, including city modeling, rendering, 3D printing, and developing an AR simulation to visualize and analyze flooding scenarios. (Jan 2021 – Aug 2022). [Project link:]( https://youtu.be/SJj2o0pzhf4).
   
-  Research for intrusion detection system and routing protocol for UAVs swarm networks. \textit{(Jun 2023 - Sep 2023, Jun 2024 - Sep 2024)}.
+  Research for intrusion detection system and routing protocol for UAVs swarm networks. (Jun 2023 - Sep 2023, Jun 2024 - Sep 2024).
   
   Mentored 6 undergraduate students from UMKC. (Jun 2023 - Sep 2023, Jun 2024 - Sep 2024, Jan 2025- May 2025).
   
