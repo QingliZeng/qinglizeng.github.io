@@ -13,5 +13,12 @@ main:
     url: "/#-educations"
 
 
-  - title: "WORK EXPERIENCE"
+  - title: "Work Experience"
     url: "/#-work-experience"
+
+
+  - title: "Mentoring"
+    url: "/#-Mentoring"
+
+ - title: "Professional Service"
+    url: "/#-Professional-Service" 
