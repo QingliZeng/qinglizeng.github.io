@@ -95,7 +95,7 @@ IEEE International Conference on Communication (ICC) 2024.
 
 
 
-# 💻 WORK EXPERIENCE
+# 💻 Work Experiences
 - *Graduate Research Assistant*, Jan 2021 - August 2022, Jun 2023 - Sep 2023, Jun 2024 - Sep 2024.
   1. Developed AR Flooding Project for KC Water Company, including city modeling, rendering, 3D printing, and developing an AR simulation to visualize and analyze flooding scenarios. (Jan 2021 – Aug 2022). [Project link]( https://youtu.be/SJj2o0pzhf4).
   
@@ -112,19 +112,24 @@ IEEE International Conference on Communication (ICC) 2024.
   
   2. Python Programming (Jan 2024 - Present).
  
-# 🧑‍🏫 MENTORING
+# 🧑‍🏫 Mentoring
 - *For undergraduate students Kailynn Barnt, Luke Ragan*. （Jun 2023 - Sep 2023）
+  
 Kailynn and Luke worked with me on the Realtime intrusion detection for UAV networks. This work was accepted by IEEE ICPADS 2023.
 - *For undergraduate student Abdalrahman Bashir*. （Since Jun 2024）
+  
 Abdalrahman works with me on the Bio-Inspired Routing Solution for UAV Swarms. This work was submitted to INFOCOM 2025. With submissions based on this work, Abdalrahman won UMKC Hack a Roo competition 2024. Abdalrahman is looking into producing the intrusion detection dataset for UAV swarm networks. 
 - *For undergraduate student Semire Olatunde-Salawu*. （Jun 2024 - Sep 2024）
+- 
 Semire worked with me on Federated Learning based IDS for UAV swarm networks. This work was accepted by IEEE CIC 2024.
 - *For undergraduate student Gregory Linville*. （Jun 2024 - Sep 2024）
+  
 Gregory worked with me on Efficient Data Compression for Large-Scale Storage Systems.
 - *For undergraduate student Samuel Yohannes*. （January 2025 - May 2025）
+  
 Samuel will work with me from January 2025, he is going to explore the LSTM and Neural Networks based IDS for UAV swarms networks.
 
-# 🏢 PROFESSIONAL SERVICE
+# 🏢 Professional Service
 - *Reviewing*
-1. 2023 International Conference on Modeling \& E-Information Research, Artificial Learning and Digital Applications (ICMERALDA) (19).
+1. 2023 International Conference on Modeling & E-Information Research, Artificial Learning and Digital Applications (ICMERALDA) (19).
 2. 2023 IEEE Global Communications Conference: Mobile and Wireless Networks (1). 
