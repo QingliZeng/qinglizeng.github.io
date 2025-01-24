@@ -120,7 +120,7 @@ Kailynn and Luke worked with me on the Realtime intrusion detection for UAV netw
   
 Abdalrahman works with me on the Bio-Inspired Routing Solution for UAV Swarms. This work was submitted to INFOCOM 2025. With submissions based on this work, Abdalrahman won UMKC Hack a Roo competition 2024. Abdalrahman is looking into producing the intrusion detection dataset for UAV swarm networks. 
 - *For undergraduate student Semire Olatunde-Salawu*. （Jun 2024 - Sep 2024）
-- 
+  
 Semire worked with me on Federated Learning based IDS for UAV swarm networks. This work was accepted by IEEE CIC 2024.
 - *For undergraduate student Gregory Linville*. （Jun 2024 - Sep 2024）
   
