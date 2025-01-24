@@ -94,7 +94,6 @@ IEEE International Conference on Communication (ICC) 2024.
 - *2016.09 - 2020.09*, Undergraduate, Automation, [Beijing Information Science and Technology University](https://english.bistu.edu.cn), Beijing, China.
 
 
-
 # 💻 Work Experiences
 - *Graduate Research Assistant*, Jan 2021 - August 2022, Jun 2023 - Sep 2023, Jun 2024 - Sep 2024.
   1. Developed AR Flooding Project for KC Water Company, including city modeling, rendering, 3D printing, and developing an AR simulation to visualize and analyze flooding scenarios. (Jan 2021 – Aug 2022). [Project link]( https://youtu.be/SJj2o0pzhf4).
@@ -112,6 +111,7 @@ IEEE International Conference on Communication (ICC) 2024.
   
   2. Python Programming (Jan 2024 - Present).
  
+
 # 🧑‍🏫 Mentoring
 - *For undergraduate students Kailynn Barnt, Luke Ragan*. （Jun 2023 - Sep 2023）
   
