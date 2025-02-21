@@ -26,6 +26,22 @@ My current projects include the development of robust intrusion detection system
 # 📝 Publications 
 
 <!-- 1 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Internet of Things Journal</div><img src='images/hitlmlframwork.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Enhancing UAV Network Security: A Human-in-the-Loop and GAN-Based Approach to Intrusion Detection](https://ieeexplore.ieee.org/document/10622479). 
+
+IEEE Internet of Things Journal.
+
+ **Qingli Zeng**, Farid Nait-Abdesselam
+
+[**Project/Dataset**](https://ieee-dataport.org/documents/ctgan-enhanced-dataset-uav-network-intrusion-detection) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Enhancing UAV Network Security: A Human-in-the-Loop and GAN-Based Approach to Intrusion Detection. 
+</div>
+</div>
+
+
+<!-- 2 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ICC 2024</div><img src='images/globecom2023workshop.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -41,8 +57,8 @@ IEEE International Conference on Communication (ICC) 2024.
 </div>
 
 
-<!-- 2 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ICC 2024</div><img src='images/icc20242.pdf' alt="sym" width="100%"></div></div>
+<!-- 3 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ICC 2024</div><img src='images/figure2.pdf' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Leveraging Human-In-The-Loop Machine Learning and GAN-Synthesized Data for Intrusion Detection in Unmanned Aerial Vehicle Networks](https://ieeexplore.ieee.org/document/10622433).
@@ -56,25 +72,25 @@ IEEE International Conference on Communication (ICC) 2024.
 </div>
 </div>
 
-<!-- 3 -->
+<!-- 4 -->
 - Cooperative and Autonomous Flocking of Drones Using an Extended BOID Model,**Qingli Zeng**, Harir Razzazi, Farid Nait-Abdesselam, IEEE Global Communications Conference (GLOBECOM) 2024.
 
-<!-- 4 -->
+<!-- 5 -->
 - [A HITL-Integrated Machine Learning Approach to Secure Drone Networks for IIoT Applications](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10465098), **Qingli Zeng**, Farid Nait-Abdesselam, ZhiQiang Chen, IEEE Globecom Workshops (GC Wkshps) 2023.
 
-<!-- 5 -->
+<!-- 6 -->
 - [Realtime Intrusion Detection In Unmanned Aerial Vehicles Using Active Learning and Generative Adversarial Networks](https://ieeexplore.ieee.org/abstract/document/10476232), **Qingli Zeng**, Kailynn Barnt, Luke Ragan, Farid Nait-Abdesselam, 2023 IEEE 29th International Conference on Parallel and Distributed Systems (ICPADS).
 
-<!-- 6 -->
+<!-- 7 -->
 - [An Enhanced Online K-Means Algorithm for Flooding Attacks Detection in Vehicular Networks](https://ieeexplore.ieee.org/abstract/document/10592383), Harir Razzazi, **Qingli Zeng**, Farid Nait-Abdesselam, 2024 International Wireless Communications and Mobile Computing (IWCMC).
 
-<!-- 7 -->
+<!-- 8 -->
 - [FGA-IDS: A Federated Learning and GAN-Augmented Intrusion Detection System for UAV Networks](https://ieeexplore.ieee.org/abstract/document/10835787), **Qingli Zeng**, Semire Olatunde-Salawu, and Farid Nait-Abdesselam, The 10th IEEE International Conference on Collaboration and Internet Computing (CIC) 2024.
 
-<!-- 8 -->
+<!-- 9 -->
 - [Scalable and Probabilistic Point-Cloud Generation for UAS-Based Structural Assessment](https://link.springer.com/chapter/10.1007/978-3-030-93236-7_49), **Qingli Zeng**, ZhiQiang Chen, EVACES 2021.
 
-<!-- 9 -->
+<!-- 10 -->
 - [Human-in-the-loop robotic inspection-framework and Point Cloud assessment](https://www.jstage.jst.go.jp/article/jsceiii/3/2/3_35/_article/-char/ja/), ZhiQiang Chen, **Qingli Zeng**, AI・データサイエンス論文集.
 
 
