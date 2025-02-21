@@ -36,7 +36,7 @@ IEEE Internet of Things Journal.
  **Qingli Zeng**, Farid Nait-Abdesselam
 
 [**Project/Dataset**](https://ieee-dataport.org/documents/ctgan-enhanced-dataset-uav-network-intrusion-detection) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Enhancing UAV Network Security: A Human-in-the-Loop and GAN-Based Approach to Intrusion Detection. 
+- CTGAN ENHANCED DATASET FOR UAV NETWORK INTRUSION DETECTION. 
 </div>
 </div>
 
