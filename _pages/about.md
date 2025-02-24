@@ -29,7 +29,7 @@ My current projects include the development of robust intrusion detection system
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Internet of Things Journal</div><img src='images/hitlmlframwork.pdf' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Enhancing UAV Network Security: A Human-in-the-Loop and GAN-Based Approach to Intrusion Detection](https://ieeexplore.ieee.org/document/10622479). 
+[Enhancing UAV Network Security: A Human-in-the-Loop and GAN-Based Approach to Intrusion Detection](https://ieeexplore.ieee.org/document/10902040). 
 
 IEEE Internet of Things Journal.
 
