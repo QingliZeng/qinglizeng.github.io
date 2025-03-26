@@ -73,7 +73,7 @@ IEEE International Conference on Communication (ICC) 2024.
 </div>
 
 <!-- 4 -->
-- [Cooperative and Autonomous Flocking of Drones Using an Extended BOID Model,**Qingli Zeng**, Harir Razzazi, Farid Nait-Abdesselam, IEEE Global Communications Conference](https://ieeexplore.ieee.org/abstract/document/10901089) (GLOBECOM) 2024.
+- [Cooperative and Autonomous Flocking of Drones Using an Extended BOID Model(https://ieeexplore.ieee.org/abstract/document/10901089),**Qingli Zeng**, Harir Razzazi, Farid Nait-Abdesselam, IEEE Global Communications Conference (GLOBECOM) 2024.
 
 <!-- 5 -->
 - [A HITL-Integrated Machine Learning Approach to Secure Drone Networks for IIoT Applications](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10465098), **Qingli Zeng**, Farid Nait-Abdesselam, ZhiQiang Chen, IEEE Globecom Workshops (GC Wkshps) 2023.
