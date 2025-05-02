@@ -105,7 +105,7 @@ IEEE International Conference on Communication (ICC) 2024.
 
 
 # 📖 Educations
-- *2020.09 - 2025.05 (Expected)*, PhD, Computer Science, [University of Missouri Kansas City](https://www.umkc.edu), Kansas City, MO, USA. 
+- *2020.09 - 2025.05*, PhD, Computer Science, [University of Missouri Kansas City](https://www.umkc.edu), Kansas City, MO, USA. 
 - *2020.01 - 2021.10*, Master, Computer Science, [University of Missouri Kansas City](https://www.umkc.edu), Kansas City, MO, USA.
 - *2016.09 - 2020.09*, Undergraduate, Automation, [Beijing Information Science and Technology University](https://english.bistu.edu.cn), Beijing, China.
 
