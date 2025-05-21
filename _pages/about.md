@@ -21,6 +21,8 @@ Welcome to my academic profile! I am Qingli Zeng, a PhD in Computer Science at t
 
 My current projects include the development of robust intrusion detection systems for UAV networks, the creation of dynamic routing protocols inspired by biological systems, and the use of reinforcement learning to improve the coordination of drone swarms. I am dedicated to advancing knowledge in my field and am always excited to collaborate with fellow researchers and industry professionals to push the boundaries of what is possible in UAV and cybersecurity technologies. You can find my papers at <a href='https://scholar.google.com/citations?user=09YAwSwAAAAJ&hl=zh-CN'>google scholar.
 
+I welcome collaboration opportunities and am open to interdisciplinary research partnerships.
+
 
 
 # 📝 Publications 
