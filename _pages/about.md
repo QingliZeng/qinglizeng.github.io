@@ -17,11 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Welcome to my academic profile! I am Qingli Zeng, a PhD in Computer Science at the University of Missouri - Kansas City (UMKC). My research is primarily focused on Unmanned Aerial Vehicle (UAV) networks, with a particular interest in enhancing the security, efficiency, and autonomy of these systems through advanced machine learning techniques and bio-inspired algorithms. I am passionate about exploring the intersection of UAV technology, cybersecurity, and artificial intelligence, aiming to develop innovative solutions that address real-world challenges in these fields.
+Welcome to my academic profile! I am Qingli Zeng, Ph.D., an Assistant Professor of Computer Science – Cybersecurity at the University of South Carolina Upstate. I earned my Ph.D. in Computer Science from the University of Missouri–Kansas City in May 2025.
+
+My research focuses on Unmanned Aerial Vehicle (UAV) networks, with a particular emphasis on enhancing their security, efficiency, and autonomy through advanced machine learning techniques and bio-inspired algorithms. I am passionate about exploring the intersection of UAV technology, cybersecurity, and artificial intelligence, aiming to develop innovative solutions that address real-world challenges in these domains.
 
 My current projects include the development of robust intrusion detection systems for UAV networks, the creation of dynamic routing protocols inspired by biological systems, and the use of reinforcement learning to improve the coordination of drone swarms. I am dedicated to advancing knowledge in my field and am always excited to collaborate with fellow researchers and industry professionals to push the boundaries of what is possible in UAV and cybersecurity technologies. You can find my papers at <a href='https://scholar.google.com/citations?user=09YAwSwAAAAJ&hl=zh-CN'>google scholar.
 
-I welcome collaboration opportunities and am open to interdisciplinary research partnerships.
+I welcome collaboration opportunities and am open to interdisciplinary research partnerships. You can reach me via email at <a href="mailto:qingli@uscupstate.edu">qingli@uscupstate.edu</a>.
 
 
 
@@ -123,11 +125,17 @@ IEEE International Conference on Communication (ICC) 2024.
   4. Assisted in conducting a Cybersecurity Summer Camp for high school students, providing hands-on guidance.(June–September 2023, June–September 2024).
   
 
-- *Graduate Teaching Assistant*, Sep 2022 - Present.
+- *Graduate Teaching Assistant*, Sep 2022 - May 2025.
   
   1. Network Architecture (Sep 2022 - May 2024).
   
-  2. Python Programming (Jan 2024 - Present).
+  2. Python Programming (Jan 2024 - May 2025).
+ 
+- *Assistant Professor*, Aug 2025 - present.
+  
+  1. Software Engineering (Aug 2025 - present).
+  
+  2. AI and Cybersecurity (Aug 2025 - present).
  
 
 # 🧑‍🏫 Mentoring
@@ -152,4 +160,4 @@ IEEE International Conference on Communication (ICC) 2024.
 # 🏢 Professional Service
 - *Reviewing*
 1. 2023 International Conference on Modeling & E-Information Research, Artificial Learning and Digital Applications (ICMERALDA) (19).
-2. 2023 IEEE Global Communications Conference: Mobile and Wireless Networks (1). 
+2. 2023 IEEE Global Communications Conference: Mobile and Wireless Networks (1).
