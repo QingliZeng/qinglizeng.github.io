@@ -77,24 +77,40 @@ IEEE International Conference on Communication (ICC) 2024.
 </div>
 
 <!-- 4 -->
-- [Cooperative and Autonomous Flocking of Drones Using an Extended BOID Model](https://ieeexplore.ieee.org/abstract/document/10901089),**Qingli Zeng**, Harir Razzazi, Farid Nait-Abdesselam, IEEE Global Communications Conference (GLOBECOM) 2024.
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE CNS 2025</div><img src='images/data.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[Uavids-2025: A benchmark dataset for intrusion detection in uav networks using machine learning techniques](https://ieeexplore.ieee.org/abstract/document/11194990).
+
+2025 IEEE Conference on Communications and Network Security (CNS).
+
+**Qingli Zeng**, Abdalrahman Bashir, Farid Nait-Abdesselam
+
+[**Project**]([https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=09YAwSwAAAAJ&citation_for_view=09YAwSwAAAAJ:dhFuZR0502QC](https://ieee-dataport.org/documents/uavids-2025-benchmark-dataset-intrusion-detection-uav-networks-using-machine-learning)) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- UAVIDS-2025 Dataset. 
+</div>
+</div>
+
 
 <!-- 5 -->
-- [A HITL-Integrated Machine Learning Approach to Secure Drone Networks for IIoT Applications](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10465098), **Qingli Zeng**, Farid Nait-Abdesselam, ZhiQiang Chen, IEEE Globecom Workshops (GC Wkshps) 2023.
+- [Cooperative and Autonomous Flocking of Drones Using an Extended BOID Model](https://ieeexplore.ieee.org/abstract/document/10901089),**Qingli Zeng**, Harir Razzazi, Farid Nait-Abdesselam, IEEE Global Communications Conference (GLOBECOM) 2024.
 
 <!-- 6 -->
-- [Realtime Intrusion Detection In Unmanned Aerial Vehicles Using Active Learning and Generative Adversarial Networks](https://ieeexplore.ieee.org/abstract/document/10476232), **Qingli Zeng**, Kailynn Barnt, Luke Ragan, Farid Nait-Abdesselam, 2023 IEEE 29th International Conference on Parallel and Distributed Systems (ICPADS).
+- [A HITL-Integrated Machine Learning Approach to Secure Drone Networks for IIoT Applications](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10465098), **Qingli Zeng**, Farid Nait-Abdesselam, ZhiQiang Chen, IEEE Globecom Workshops (GC Wkshps) 2023.
 
 <!-- 7 -->
-- [An Enhanced Online K-Means Algorithm for Flooding Attacks Detection in Vehicular Networks](https://ieeexplore.ieee.org/abstract/document/10592383), Harir Razzazi, **Qingli Zeng**, Farid Nait-Abdesselam, 2024 International Wireless Communications and Mobile Computing (IWCMC).
+- [Realtime Intrusion Detection In Unmanned Aerial Vehicles Using Active Learning and Generative Adversarial Networks](https://ieeexplore.ieee.org/abstract/document/10476232), **Qingli Zeng**, Kailynn Barnt, Luke Ragan, Farid Nait-Abdesselam, 2023 IEEE 29th International Conference on Parallel and Distributed Systems (ICPADS).
 
 <!-- 8 -->
-- [FGA-IDS: A Federated Learning and GAN-Augmented Intrusion Detection System for UAV Networks](https://ieeexplore.ieee.org/abstract/document/10835787), **Qingli Zeng**, Semire Olatunde-Salawu, and Farid Nait-Abdesselam, The 10th IEEE International Conference on Collaboration and Internet Computing (CIC) 2024.
+- [An Enhanced Online K-Means Algorithm for Flooding Attacks Detection in Vehicular Networks](https://ieeexplore.ieee.org/abstract/document/10592383), Harir Razzazi, **Qingli Zeng**, Farid Nait-Abdesselam, 2024 International Wireless Communications and Mobile Computing (IWCMC).
 
 <!-- 9 -->
-- [Scalable and Probabilistic Point-Cloud Generation for UAS-Based Structural Assessment](https://link.springer.com/chapter/10.1007/978-3-030-93236-7_49), **Qingli Zeng**, ZhiQiang Chen, EVACES 2021.
+- [FGA-IDS: A Federated Learning and GAN-Augmented Intrusion Detection System for UAV Networks](https://ieeexplore.ieee.org/abstract/document/10835787), **Qingli Zeng**, Semire Olatunde-Salawu, and Farid Nait-Abdesselam, The 10th IEEE International Conference on Collaboration and Internet Computing (CIC) 2024.
 
 <!-- 10 -->
+- [Scalable and Probabilistic Point-Cloud Generation for UAS-Based Structural Assessment](https://link.springer.com/chapter/10.1007/978-3-030-93236-7_49), **Qingli Zeng**, ZhiQiang Chen, EVACES 2021.
+
+<!-- 11 -->
 - [Human-in-the-loop robotic inspection-framework and Point Cloud assessment](https://www.jstage.jst.go.jp/article/jsceiii/3/2/3_35/_article/-char/ja/), ZhiQiang Chen, **Qingli Zeng**, AI・データサイエンス論文集.
 
 
