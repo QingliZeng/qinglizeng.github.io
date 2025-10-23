@@ -113,6 +113,9 @@ IEEE International Conference on Communication (ICC) 2024.
 <!-- 11 -->
 - [Human-in-the-loop robotic inspection-framework and Point Cloud assessment](https://www.jstage.jst.go.jp/article/jsceiii/3/2/3_35/_article/-char/ja/), ZhiQiang Chen, **Qingli Zeng**, AI・データサイエンス論文集.
 
+<!-- 12 -->
+- [Flocking Control and Intrusion Detection in UAV Networks](https://www.proquest.com/openview/57dee740c24e9c6ca60bf5ab6b490eac/1?pq-origsite=gscholar&cbl=18750&diss=y),  **Qingli Zeng**, University of Missouri - Kansas City.
+
 
 # 🎖 Honors and Awards
 - *Spring 2024*, [53rd class of Women’s Council GAF Awards(Merit)](https://www.umkcwc.org/s/1236/bp20/interior.aspx?sid=1236&gid=3&pgid=823).
