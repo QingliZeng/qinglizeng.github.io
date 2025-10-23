@@ -86,7 +86,7 @@ IEEE International Conference on Communication (ICC) 2024.
 
 **Qingli Zeng**, Abdalrahman Bashir, Farid Nait-Abdesselam
 
-[**Project**]([https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=09YAwSwAAAAJ&citation_for_view=09YAwSwAAAAJ:dhFuZR0502QC](https://ieee-dataport.org/documents/uavids-2025-benchmark-dataset-intrusion-detection-uav-networks-using-machine-learning)) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://ieee-dataport.org/documents/uavids-2025-benchmark-dataset-intrusion-detection-uav-networks-using-machine-learning) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - UAVIDS-2025 Dataset. 
 </div>
 </div>
