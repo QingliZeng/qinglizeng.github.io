@@ -80,7 +80,7 @@ IEEE International Conference on Communication (ICC) 2024.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE CNS 2025</div><img src='images/data.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-[Uavids-2025: A benchmark dataset for intrusion detection in uav networks using machine learning techniques](https://ieeexplore.ieee.org/abstract/document/11194990).
+[UAVIDS-2025: A Benchmark Dataset for Intrusion Detection in UAV Networks Using Machine Learning Techniques](https://ieeexplore.ieee.org/abstract/document/11194990).
 
 2025 IEEE Conference on Communications and Network Security (CNS).
 
