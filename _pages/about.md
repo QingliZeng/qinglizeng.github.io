@@ -30,6 +30,21 @@ I welcome collaboration opportunities and am open to interdisciplinary research 
 # 📝 Publications 
 
 <!-- 1 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE INFOCOM 2026</div><img src='images/fedgraph-architecture.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[FedGraph-ID: A Federated Graph Learning Framework for Intrusion Detection in UAV Networks Under Adversarial Settings](https://infocom2026.ieee-infocom.org). 
+
+IEEE INFOCOM 2026.
+
+ **Qingli Zeng**, Yinjin Fu, Farid Nait-Abdesselam
+
+**Project/Dataset** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- [UAVIDS-2025.](https://ieee-dataport.org/documents/uavids-2025-benchmark-dataset-intrusion-detection-uav-networks-using-machine-learning) 
+</div>
+</div>
+
+<!-- 2 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Internet of Things Journal</div><img src='images/hitlmlframwork.pdf' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -45,7 +60,7 @@ IEEE Internet of Things Journal.
 </div>
 
 
-<!-- 2 -->
+<!-- 3 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ICC 2024</div><img src='images/globecom2023workshop.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -61,7 +76,7 @@ IEEE International Conference on Communication (ICC) 2024.
 </div>
 
 
-<!-- 3 -->
+<!-- 4 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ICC 2024</div><img src='images/figure2.pdf' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
@@ -76,7 +91,7 @@ IEEE International Conference on Communication (ICC) 2024.
 </div>
 </div>
 
-<!-- 4 -->
+<!-- 5 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE CNS 2025</div><img src='images/data.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
@@ -92,28 +107,28 @@ IEEE International Conference on Communication (ICC) 2024.
 </div>
 
 
-<!-- 5 -->
+<!-- 6 -->
 - [Cooperative and Autonomous Flocking of Drones Using an Extended BOID Model](https://ieeexplore.ieee.org/abstract/document/10901089),**Qingli Zeng**, Harir Razzazi, Farid Nait-Abdesselam, IEEE Global Communications Conference (GLOBECOM) 2024.
 
-<!-- 6 -->
+<!-- 7 -->
 - [A HITL-Integrated Machine Learning Approach to Secure Drone Networks for IIoT Applications](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10465098), **Qingli Zeng**, Farid Nait-Abdesselam, ZhiQiang Chen, IEEE Globecom Workshops (GC Wkshps) 2023.
 
-<!-- 7 -->
+<!-- 8 -->
 - [Realtime Intrusion Detection In Unmanned Aerial Vehicles Using Active Learning and Generative Adversarial Networks](https://ieeexplore.ieee.org/abstract/document/10476232), **Qingli Zeng**, Kailynn Barnt, Luke Ragan, Farid Nait-Abdesselam, 2023 IEEE 29th International Conference on Parallel and Distributed Systems (ICPADS).
 
-<!-- 8 -->
+<!-- 9 -->
 - [An Enhanced Online K-Means Algorithm for Flooding Attacks Detection in Vehicular Networks](https://ieeexplore.ieee.org/abstract/document/10592383), Harir Razzazi, **Qingli Zeng**, Farid Nait-Abdesselam, 2024 International Wireless Communications and Mobile Computing (IWCMC).
 
-<!-- 9 -->
+<!-- 10 -->
 - [FGA-IDS: A Federated Learning and GAN-Augmented Intrusion Detection System for UAV Networks](https://ieeexplore.ieee.org/abstract/document/10835787), **Qingli Zeng**, Semire Olatunde-Salawu, and Farid Nait-Abdesselam, The 10th IEEE International Conference on Collaboration and Internet Computing (CIC) 2024.
 
-<!-- 10 -->
+<!-- 11 -->
 - [Scalable and Probabilistic Point-Cloud Generation for UAS-Based Structural Assessment](https://link.springer.com/chapter/10.1007/978-3-030-93236-7_49), **Qingli Zeng**, ZhiQiang Chen, EVACES 2021.
 
-<!-- 11 -->
+<!-- 12 -->
 - [Human-in-the-loop robotic inspection-framework and Point Cloud assessment](https://www.jstage.jst.go.jp/article/jsceiii/3/2/3_35/_article/-char/ja/), ZhiQiang Chen, **Qingli Zeng**, AI・データサイエンス論文集.
 
-<!-- 12 -->
+<!-- 13 -->
 - [Flocking Control and Intrusion Detection in UAV Networks](https://www.proquest.com/openview/57dee740c24e9c6ca60bf5ab6b490eac/1?pq-origsite=gscholar&cbl=18750&diss=y),  **Qingli Zeng**, University of Missouri - Kansas City.
 
 
@@ -153,8 +168,14 @@ IEEE International Conference on Communication (ICC) 2024.
 - *Assistant Professor*, Aug 2025 - present.
   
   1. Software Engineering (Aug 2025 - present).
+
+  2. AI and Cybersecurity (Aug 2025 - December 2025).
+     
+  3. Data Analytics and Visualization (Spring Semester 2026 - present).
+     
+  5. Intro to Artificial Intelligen (Spring Semester 2026 - present).
   
-  2. AI and Cybersecurity (Aug 2025 - present).
+  
  
 
 # 🧑‍🏫 Mentoring
