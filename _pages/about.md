@@ -167,13 +167,13 @@ IEEE International Conference on Communication (ICC) 2024.
  
 - *Assistant Professor*, Aug 2025 - present.
   
-  1. Software Engineering (Aug 2025 - present).
+  1. Software Engineering (Fall 2025, Spring 2026).
 
-  2. AI and Cybersecurity (Aug 2025 - December 2025).
+  2. AI and Cybersecurity (Fall 2025).
      
-  3. Data Analytics and Visualization (Spring Semester 2026 - present).
+  3. Data Analytics and Visualization (Spring 2026).
      
-  5. Intro to Artificial Intelligen (Spring Semester 2026 - present).
+  5. Intro to Artificial Intelligen (Spring 2026).
   
   
  
