@@ -33,7 +33,7 @@ I welcome collaboration opportunities and am open to interdisciplinary research 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE INFOCOM 2026</div><img src='images/fedgraph-architecture.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[FedGraph-ID: A Federated Graph Learning Framework for Intrusion Detection in UAV Networks Under Adversarial Settings](https://infocom2026.ieee-infocom.org). 
+[FedGraph-ID: A Federated Graph Learning Framework for Intrusion Detection in UAV Networks Under Adversarial Settings](https://ieeexplore.ieee.org/abstract/document/11571676). 
 
 IEEE INFOCOM 2026.
 
